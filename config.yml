@@ -1,5 +1,8 @@
 title: wechat-miniprogram
 description: Hello
+template:
+  repo: course-template
+  name: course
 before:
   - type: createIssue
     title: Welcome!
